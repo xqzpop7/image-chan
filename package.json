@@ -21,6 +21,11 @@
   "type": "commonjs",
   "main": "main.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^34.0.0",
+    "typescript": "^5.7.3"
+  },
+  "packageManager": "yarn@4.6.0"
 }
