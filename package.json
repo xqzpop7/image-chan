@@ -1,0 +1,26 @@
+{
+  "name": "image-chan",
+  "version": "0.0.1",
+  "description": "An Image Tagging Software Written In Typescript Using Electron.",
+  "keywords": [
+    "image",
+    "tags",
+    "electron",
+    "typescript"
+  ],
+  "homepage": "https://github.com/xqzpop7/image-chan#readme",
+  "bugs": {
+    "url": "https://github.com/xqzpop7/image-chan/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xqzpop7/image-chan.git"
+  },
+  "license": "CC-BY-4.0",
+  "author": "xqzpop7",
+  "type": "commonjs",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
